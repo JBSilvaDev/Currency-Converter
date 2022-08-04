@@ -89,7 +89,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        title: const Text("\$ Conversor \$"),
+        title: const Text("\$ Conversor\$"),
         backgroundColor: Colors.amber,
         centerTitle: true,
       ),
